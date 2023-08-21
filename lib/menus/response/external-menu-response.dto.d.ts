@@ -64,7 +64,7 @@ export declare class ItemModifierGroupItem {
     sku: string;
     name: string;
     description: string;
-    buttonImage: string;
+    buttonImageUrl: string;
     restrictions: Restrictions;
     allergenGroups: AllergenGroup[];
     nutritionPerHundredGrams: NutritionPerHundredGrams;
