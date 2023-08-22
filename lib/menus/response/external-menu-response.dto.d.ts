@@ -55,7 +55,7 @@ export declare class ItemModifierGroup {
     description: string;
     restrictions: Restrictions;
     canBeDivided: boolean;
-    itemGroupId: string;
+    iikoItemGroupId: string;
     childModifiersHaveMinMaxRestrictions: boolean;
     sku: string;
 }
