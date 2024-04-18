@@ -11,3 +11,4 @@ export * from './response/products-list.dto';
 export * from './response/stop-list.dto';
 export * from './response/terminal-groups-stops.dto';
 export * from './response/terminal-single-group-stops.dto';
+export * from './response/product-modifiers.dto';
